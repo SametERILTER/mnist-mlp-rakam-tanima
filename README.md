@@ -78,8 +78,8 @@ Grafik incelendiğinde eğitim kaybının istikrarlı bir şekilde düştüğü,
 
 Öğrenci numarası (**24120205002**) beyaz kağıt üzerine tükenmez kalem ile el yazısıyla yazılmış, fotoğraflanarak kırpılmış ve sisteme aktarılmıştır.
 
-### Ham El Yazısı Görüntüleri (`rakamlar/`)
-Öğrenci numarasına ait `rakamlar/` klasöründeki ham el yazısı fotoğrafları aşağıda 5'li ızgara (5x2 düzeninde) şeklinde sunulmuştur:
+### Ham El Yazısı Görüntüleri
+Öğrenci numarasına ait `rakamlar/` klasöründeki ham el yazısı fotoğrafları aşağıda sunulmuştur:
 
 | 1. Hane (2) | 2. Hane (4) | 3. Hane (1) | 4. Hane (2) | 5. Hane (0) |
 | :---: | :---: | :---: | :---: | :---: |
