@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Veri seti (MNIST indirme klasörü)
+data/
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
