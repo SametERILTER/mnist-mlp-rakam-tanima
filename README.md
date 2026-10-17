@@ -78,6 +78,17 @@ Grafik incelendiğinde eğitim kaybının istikrarlı bir şekilde düştüğü,
 
 Öğrenci numarası (**24120205002**) beyaz kağıt üzerine tükenmez kalem ile el yazısıyla yazılmış, fotoğraflanarak kırpılmış ve sisteme aktarılmıştır.
 
+### Ham El Yazısı Görüntüleri (`rakamlar/`)
+Öğrenci numarasına ait `rakamlar/` klasöründeki ham el yazısı fotoğrafları aşağıda 5'li ızgara (5x2 düzeninde) şeklinde sunulmuştur:
+
+| 1. Hane (2) | 2. Hane (4) | 3. Hane (1) | 4. Hane (2) | 5. Hane (0) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="./rakamlar/image.png" width="75" alt="2"/> | <img src="./rakamlar/image%20copy.png" width="75" alt="4"/> | <img src="./rakamlar/image%20copy%202.png" width="75" alt="1"/> | <img src="./rakamlar/image%20copy%203.png" width="75" alt="2"/> | <img src="./rakamlar/image%20copy%204.png" width="75" alt="0"/> |
+| **6. Hane (2)** | **7. Hane (0)** | **8. Hane (5)** | **9. Hane (0)** | **10. Hane (0)** |
+| <img src="./rakamlar/image%20copy%205.png" width="75" alt="2"/> | <img src="./rakamlar/image%20copy%206.png" width="75" alt="0"/> | <img src="./rakamlar/image%20copy%207.png" width="75" alt="5"/> | <img src="./rakamlar/image%20copy%208.png" width="75" alt="0"/> | <img src="./rakamlar/image%20copy%209.png" width="75" alt="0"/> |
+| **11. Hane (2)** | | | | |
+| <img src="./rakamlar/image%20copy%2010.png" width="75" alt="2"/> | | | | |
+
 ### Görüntü İşleme Adımları
 Gerçek dünya fotoğraflarını MNIST formatına uyumlu hale getirmek için `process_image` fonksiyonunda şu adımlar uygulanmıştır:
 1. **Gri Seviyeye Dönüştürme:** Renkli görüntüler PIL kütüphanesi kullanılarak 8-bit tek kanallı gri seviyeye (`'L'`) çevrilmiştir.
